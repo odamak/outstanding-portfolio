@@ -2,10 +2,10 @@
 
 A HTML CSS project realized in the context of the course **Full Stack Web Developer** by [Udacity](https://udacity.com).   
 A responsive portfolio to display projects using the framework [Bootstrap](http://getbootstrap.com/).  
-*Grunt* is present in the project files but not used in this version.
+[Grunt](https://gruntjs.com/) is present in the project files but not used in this version.
 
 ## Requirement
-To run this project you can simply download it and open the *portfolio.html* file in a webpage.
+To run this project you can simply download it and open the *portfolio.html* file with your web browser.
 
 ## Modifications
 - The file *img_general_size* contains the dimension of the images used in the project
