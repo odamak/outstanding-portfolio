@@ -161,6 +161,10 @@ a {
     .margin-title-xs {
         margin-top: 48px;
     }
+    .text-under-logo {
+    font-size: 10px;
+    margin-left: 18px;
+}
 }
 
 
