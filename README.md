@@ -7,7 +7,7 @@ A responsive portfolio to display projects using the framework [Bootstrap](http:
 To run this project you can simply download it and open the *portfolio.html* file with your web browser.
 
 ## Modifications
-- The file *bootstrap-prestructure_files* contains the images used in the project, you can simply replace them with yours
+- The file *img* contains the images used in the project, you can simply replace them with yours
 
 ## Licence
 Outstanding Portfolio is under the [MIT Licence](https://choosealicense.com/licenses/mit/)
