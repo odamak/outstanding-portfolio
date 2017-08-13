@@ -4,7 +4,7 @@ A HTML CSS project realized in the context of the course **Full Stack Web Develo
 A responsive portfolio to display projects using the framework [Bootstrap](http://getbootstrap.com/).  
 
 ## Requirement
-To run this project you can simply download it and open the *portfolio.html* file with your web browser.
+To run this project you can simply download it and open the *index.html* file with your web browser.
 
 ## Modification
 The file *img* contains the images used in the project, you can simply replace them with yours
