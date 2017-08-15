@@ -1,11 +1,11 @@
 body {
-    font-family: 'Lato', sans-serif;
+    font-family: "Lato", sans-serif;
     color: #5d614e;
     font-weight: 300;
 }
 
 .text-muted {
-    color: #BCBBBB;
+    color: #bcb;
 }
 
 .text-thin {
@@ -62,6 +62,7 @@ footer p {
     .margin-title-md {
         margin-top: 40px;
     }
+
     .social-links-pos {
         float: right;
     }
@@ -71,6 +72,7 @@ footer p {
     .title-size-md {
         font-size: 50px;
     }
+
     .subtitle-size-md {
         font-size: 16px;
     }
@@ -82,12 +84,15 @@ footer p {
     .work-title-size-md {
         font-size: 20px
     }
+
     .margin-title-md {
         margin-top: 40px;
     }
+
     .no-display-sm-screen {
         display: none;
     }
+
     .social-links-pos {
         float: right;
     }
@@ -95,19 +100,23 @@ footer p {
 
 @media only screen and (max-width: 767px) and (min-width:501px) {
     .center-img {
-        width:50%;
-        margin:auto;
+        width: 50%;
+        margin: auto;
     }
+
     .center-txt {
         text-align: center;
 
     }
+
     .title-size-sm {
         font-size: 40px;
     }
+
     .subtitle-size-sm {
         font-size: 14px;
     }
+
     .featured-work-size-md {
         font-size: 28px;
     }
@@ -115,19 +124,24 @@ footer p {
     .work-title-size-md {
         font-size: 20px
     }
+
     .margin-featured-work-size-md {
         margin-bottom: 18px;
     }
+
     .margin-work-title-size-md {
         margin-top: 10px;
         margin-bottom: 0px;
     }
+
     .margin-title-sm {
         margin-top: 48px;
     }
+
     .center-for-sm-screen {
         text-align: center;
     }
+
     .no-display-sm-screen {
         display: none;
     }
@@ -135,8 +149,8 @@ footer p {
 
 @media only screen and (max-width: 500px) and (min-width: 371px) {
     .center-img {
-        width:50%;
-        margin:auto;
+        width: 50%;
+        margin: auto;
     }
     .center-txt {
         text-align: center;
@@ -173,41 +187,52 @@ footer p {
 
 @media only screen and (max-width: 370px) {
     .center-img {
-        width:50%;
-        margin:auto;
+        width: 50%;
+        margin: auto;
     }
+
     .center-txt {
         text-align: center;
     }
+
    .title-size-xxs {
         font-size: 25px;
     }
+
     .subtitle-size-xs {
         font-size: 14px;
     }
+
     .featured-work-size-md {
         font-size: 28px;
     }
+
     .work-title-size-md {
         font-size: 20px
     }
+
     .margin-featured-work-size-md {
         margin-bottom: 18px;
     }
+
     .margin-work-title-size-md {
         margin-top: 10px;
         margin-bottom: 0px;
     }
+
     .margin-title-xs {
         margin-top: 48px;
     }
+
     .text-under-logo {
-    font-size: 10px;
-    margin-left: 18px;
+        font-size: 10px;
+        margin-left: 18px;
     }
+
     .center-for-sm-screen {
         text-align: center;
     }
+
     .no-display-sm-screen {
         display: none;
     }
